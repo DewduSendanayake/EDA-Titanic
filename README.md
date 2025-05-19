@@ -1,6 +1,7 @@
 # 🛳️ Titanic EDA – "Who Survived and Why"
 
-Welcome aboard the data voyage! This notebook dives deep (pun intended) into the infamous Titanic dataset, applying a full Exploratory Data Analysis (EDA) to uncover which passengers had the best chance of survival — and why.
+Welcome to this data exploration project!
+This Jupyter Notebook presents a comprehensive Exploratory Data Analysis (EDA) of the renowned Titanic dataset. The analysis investigates key factors that influenced passenger survival outcomes, using statistical summaries and data visualizations to uncover meaningful insights from the data.
 
 ## 🔍 What's Inside?
 - 📊 Descriptive statistics & data cleaning
