@@ -1,4 +1,4 @@
-# 🛳️ Titanic EDA – "Survival of the Fittest"
+# 🛳️ Titanic EDA – "Who Survived and Why"
 
 Welcome aboard the data voyage! This notebook dives deep (pun intended) into the infamous Titanic dataset, applying a full Exploratory Data Analysis (EDA) to uncover which passengers had the best chance of survival — and why.
 
