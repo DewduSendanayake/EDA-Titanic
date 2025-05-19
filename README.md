@@ -28,15 +28,6 @@ The analysis is conducted using Python and the following data science libraries:
 * Correlation matrix and heatmap to evaluate relationships between numerical variables.
 * Creation of new derived features to enhance insight (e.g., family status).
 
-## Project Structure
-
-```
-my_eda_project/
-├── venv/                       # Virtual environment directory
-├── Titanic_EDA.ipynb          # Main Jupyter notebook containing analysis
-└── README.md                   # Project overview and documentation
-```
-
 ## Dataset
 
 The dataset contains the following features:
